@@ -1,5 +1,7 @@
 # Carbon - Launcher
 
+**Credits to @harryzawg for the initialization code. My last one was buggy as shit, so credits to him.**
+
 This is the complete, full source of the Carbon launcher.
 
 You may run whatever tests you want on the built .exe file that you built on Visual Studio, and/or you may scan the Program.cs file for any suspicious acts.
